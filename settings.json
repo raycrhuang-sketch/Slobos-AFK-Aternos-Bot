@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Thisisnotray.aternos.me:20479",
+    "ip": "Thisisnotray.aternos.me",
     "port": 20479,
     "version": "",
     "try-creative": false
