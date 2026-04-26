@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nchuchilling.aternos.me",
+    "ip": "nchuchilling.aternos.me:27522",
     "port": 27522,
     "version": "",
     "try-creative": false
